@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatagandi/advanced-css-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatagandi/advanced-css-practice/issues"
+  },
+  "homepage": "https://github.com/venkatagandi/advanced-css-practice#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
