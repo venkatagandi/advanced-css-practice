@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/venkatagandi/advanced-css-practice#readme",
   "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
     "node-sass": "^4.9.3"
   }
 }
